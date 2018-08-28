@@ -34,4 +34,4 @@ If you choose Download, you only need to decompress that file and that's it!
 
 You can make your homework and send it to [Java Schoool Google Classroom](https://classroom.google.com/c/MTUyNzk2MzQ2ODZa)
 
-If you need assistance or do you want to ask something, you can send us an email to cyrs@nearsoft.com or cmarin@nearsoft.com and we will address any doubt you have
+If you need assistance or do you want to ask something, you can send us an email to crys@nearsoft.com or cmarin@nearsoft.com and we will address any doubt you have
